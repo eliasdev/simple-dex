@@ -70,9 +70,9 @@ reserveA()
 reserveB()
 ```
 
-#Referencias de contratos desplegados
+# Referencias de contratos desplegados
 
-##TokenA
+## TokenA
 ```
 status	0x1 Transaction mined and execution succeed
 transaction hash	0x163da6dc873bfa59c8f5295e8d02e6556f0ab8791fb5f7cce94e546153cb40f1
@@ -92,7 +92,7 @@ logs	[]
 raw logs	[]
 ```
 
-##TokenB
+## TokenB
 ```
 status	0x1 Transaction mined and execution succeed
 transaction hash	0xa430511803d1aa2d77a6715ecdb3af7fb9c091e611d3637d318179001b3d0b99
@@ -112,7 +112,7 @@ logs	[]
 raw logs	[]
 ```
 
-##SimpleDEX
+## SimpleDEX
 
 ```
 status	0x1 Transaction mined and execution succeed
