@@ -64,4 +64,8 @@ En SimpleDEX, ejecuta:
 
 ```solidity
 addLiquidity(amountA, amountB)
+swapAforA(amountA, amountB)
+swapBforA(amountA, amountB)
+reserveA()
+reserveB()
 ```
